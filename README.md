@@ -1,10 +1,9 @@
 <div align="center">
 <h1 style="font-size:40px"> FastMOTD 1.0 </h1>
 </div>
----
 
-![FREATURES](https://user-images.githubusercontent.com/104334245/220792812-8ee00fd3-eb7f-4e35-8ab0-1330661a96f1.png)
 
+![FEATURES](https://user-images.githubusercontent.com/104334245/220837039-9c7be52d-9b56-420e-88b7-cbbc998204a5.png)
 
 
 * Spigot 1.8 - 1.19
