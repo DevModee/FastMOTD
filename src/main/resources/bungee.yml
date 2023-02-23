@@ -1,0 +1,6 @@
+name: ${name}
+description: ${description}
+author: ${author}
+version: ${version}
+url: ${url}
+main: dev.amargos.fastmotd.bungee.FastMOTD
