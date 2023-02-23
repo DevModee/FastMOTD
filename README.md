@@ -3,7 +3,7 @@
 </div>
 ---
 
-<img align="center" alt="Features Image" src="https://imgur.com/fjifc9m">
+<img align="center" src="https://imgur.com/fjifc9m">
 
 
 
@@ -20,6 +20,6 @@
 * Custom Protocol Message
 * Performance Boost
 
-<img align="center" alt="Wiki Image" src="https://imgur.com/mvK1kCB">
+<img align="center" src="https://imgur.com/mvK1kCB">
 
 * Coming Soon...
