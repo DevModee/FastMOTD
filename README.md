@@ -3,7 +3,7 @@
 </div>
 ---
 
-<img align="center" src="https://imgur.com/fjifc9m">
+![FREATURES](https://user-images.githubusercontent.com/104334245/220792812-8ee00fd3-eb7f-4e35-8ab0-1330661a96f1.png)
 
 
 
@@ -20,6 +20,7 @@
 * Custom Protocol Message
 * Performance Boost
 
-<img align="center" src="https://imgur.com/mvK1kCB">
+![WIKI](https://user-images.githubusercontent.com/104334245/220792831-203226df-aca8-4040-933b-bda6df6d2036.png)
 
 * Coming Soon...
+
