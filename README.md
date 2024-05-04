@@ -23,3 +23,14 @@
 
 * Coming Soon...
 
+
+
+* Placeholders
+
+* %online_players%
+* %max_players%
+
+
+* Permissions
+
+* zenithmotd.admin

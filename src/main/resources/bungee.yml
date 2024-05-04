@@ -3,4 +3,4 @@ description: ${description}
 author: ${author}
 version: ${version}
 url: ${url}
-main: dev.amargos.fastmotd.bungee.FastMOTD
+main: dev.amargos.zenithstudios.bungee.FastMOTD

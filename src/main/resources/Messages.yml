@@ -1,0 +1,8 @@
+messages:
+  usage: |-
+    &4• &cZenithMOTD ${version} by ${author} commands:
+    &4• &c/zenithmotd reload &7- &aReloads the plugin!
+
+  reload: "&8[&cZenithMOTD&8] &aYou have reloaded ZenithMOTD ${version} by ${author}!"
+  unknowncommand: "&8[&cZenithMOTD&8] &cUnknown command. Use '/zenithmotd help' to see available commands!"
+  nopermission: "&8[&cZenithMOTD&8] &cThis server is running ZenithMOTD ${version} by ${author}."

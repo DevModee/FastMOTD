@@ -1,0 +1,6 @@
+name: ZenithMOTD
+description: Easy configuration MOTD plugin.
+author: Amargos
+version: 2.0.0
+url: https://github.com/DevModee/ZenithMOTD
+main: dev.amargos.zenithstudios.bungee.FastMOTD

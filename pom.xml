@@ -2,13 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.amargos</groupId>
-    <artifactId>FastMOTD</artifactId>
+    <artifactId>ZenithMOTD</artifactId>
     <packaging>jar</packaging>
 
-    <name>FastMOTD</name>
-    <description>Fast and Easy configuration MOTD plugin.</description>
-    <version>1.0.1</version>
-    <url>https://github.com/DevModee/fastmotd</url>
+    <name>ZenithMOTD</name>
+    <description>Easy configuration MOTD plugin.</description>
+    <version>2.0.0</version>
+    <url>https://github.com/DevModee/ZenithMOTD</url>
 
     <properties>
         <author>Amargos</author>
