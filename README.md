@@ -21,10 +21,6 @@
 
 ![WIKI](https://user-images.githubusercontent.com/104334245/220792831-203226df-aca8-4040-933b-bda6df6d2036.png)
 
-* Coming Soon...
-
-
-
 Placeholders
 * %online_players%
 * %max_players%
